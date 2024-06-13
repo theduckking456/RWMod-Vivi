@@ -8,7 +8,7 @@ namespace VVRace
 {
     public class CompProperties_EggLayer : CompProperties
     {
-        public float eggProgressDays = 15f;
+        public float eggProgressDays = 5f;
 
         public CompProperties_EggLayer()
         {
